@@ -6,7 +6,7 @@ Ever since Tabit's Tablature Area went down, with no sign of any the original ta
 # What is Tabit?
 ![Tabit](https://github.com/YetAnotherMorty/Tabit-Tablature-Area-Archive/blob/main/images/Tabit%20screenshot.jpg)
 
-According to the website:
+According to the [website](http://www.tabit.net/):
 
 TabIt is a full-featured program for creating, playing, and printing guitar, bass, or banjo tablature.
 
